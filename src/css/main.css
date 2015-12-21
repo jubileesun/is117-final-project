@@ -107,13 +107,11 @@ textarea {
 	margin-bottom: 10px;
 }
 
-#menu li {
+li.menu a {
 	font: 20px Helvetica, sans-serif;
 	display: inline;
-	background color: #ffffff;
 	color: #561216;
 }
-
 
 
 
