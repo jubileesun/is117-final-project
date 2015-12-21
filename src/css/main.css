@@ -109,12 +109,12 @@ textarea {
 
 #menu li {
 	display: inline;
+	word-spacing: 15px
 }
 
 #menu a {
 	font: 16px Helvetica, sans-serif;
 	color: #561216;
-	word-spacing: 5px;
 }
 
 
