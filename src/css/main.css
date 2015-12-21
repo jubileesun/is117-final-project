@@ -107,7 +107,7 @@ textarea {
 	margin-bottom: 10px;
 }
 
-ul#menu a {
+#menu li a {
 	font: 20px Helvetica, sans-serif;
 	display: inline;
 	color: #561216;
