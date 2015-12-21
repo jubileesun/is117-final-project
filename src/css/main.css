@@ -108,8 +108,10 @@ textarea {
 }
 
 #menu li {
-	font: 15px Helvetica, sans-serif;
+	font: 30px Helvetica, sans-serif;
 	display: inline;
+	background color: rgb(255,255,255);
+	color: rgb(86,18,22);
 }
 
 
