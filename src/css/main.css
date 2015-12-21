@@ -107,9 +107,8 @@ textarea {
 	margin-bottom: 10px;
 }
 
-#menu ul:hover a{
+#menu ul{
 	font: 15px Helvetica, sans-serif;
-	color: rgb(86,18,22)";
 	display: inline;
 }
 
