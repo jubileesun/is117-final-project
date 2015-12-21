@@ -103,13 +103,16 @@ textarea {
 
 #logo {
 	width: 156px;
-	height: 33px;
+	height: 25px;
 	margin-bottom: 10px;
+}
+#menu ul {
+	margin-top: 50px;
 }
 
 #menu li {
 	display: inline;
-	padding-right: 30px
+	padding-right: 30px;
 }
 
 #menu a {
@@ -121,8 +124,9 @@ textarea {
 
 #first-content {
 	background-image: url(../img/zlayout.jpg);
-	height: 550px;
-	top: 50px;
+	height: 560px;
+	width: 100%;
+	top: 15px;
 	position: relative;
 	background-repeat: no-repeat;
 }
