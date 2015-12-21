@@ -114,6 +114,8 @@ textarea {
 
 #menu a {
 	font: 16px Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
 	color: #561216;
 }
 
