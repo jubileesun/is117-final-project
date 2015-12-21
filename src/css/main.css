@@ -121,6 +121,8 @@ textarea {
 
 #first-content {
 	background-image: url(../img/zlayout-image.jpg);
+	height: 800px;
+	top: 20px;`
 	background-repeat: no-repeat;
 }
 
