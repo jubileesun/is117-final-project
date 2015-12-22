@@ -210,9 +210,9 @@ textarea {
 	width: 100%;
 }
 
-#feat1 {
-	padding-left: 250px;
-	padding-top: 40px;
+#feat_left {
+	padding-left: 200px;
+	padding-top: 10px;
 }
 
 #feat1 h4 {
@@ -239,11 +239,23 @@ textarea {
 	line-height: 20px;
 }	
 
+#feat2 h4 {
+	position: relative;
+	top: 200px;
+	right: 51px;
+}
 
+#feat2 p {
+	position: relative;
+	top: 85px;
+	right: 51px;
+}
 
-
-
-
+#feat2 img{
+	position: relative;
+	top: 155px;
+	right: 160px;
+}
 
 
 
