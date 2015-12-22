@@ -169,11 +169,12 @@ textarea {
 	right: 175px;
 }
 
-#features h1{
+#features h1 {
 	font: 36px Helvetica, sans-serif;
-	position: relative:
-	top 30px;
-
+	font-weight: bold;
+	position: relative;
+	top: 30px;
+	color: #561216;	
 }
 
 .center {
