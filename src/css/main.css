@@ -211,20 +211,33 @@ textarea {
 }
 
 #feat1 {
-	padding-left: 300px;
-	padding-top: 50px;
+	padding-left: 250px;
+	padding-top: 40px;
+}
+
+#feat1 h4 {
+	position: relative;
+	top: 40px;
+	left: 130px;
+}
+
+#feat1 p {
+	position: relative;
+	top: -55px;
+	left: 130px;
 }
 
 .small_title h4 {
 	font: 20px Helvetica, sans-serif;
 	color: #561216;
 	font-weight: bold;
-	position: relative;
-	top: 60px;
-	left: 150px;
 }
 
-
+.small_p p {
+	font: 15px Helvetica, sans-serif;
+	color: #af8386;
+	line-height: 20px;
+}	
 
 
 
