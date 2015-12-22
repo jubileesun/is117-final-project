@@ -114,8 +114,7 @@ textarea {
 
 #menu li {
 	display: inline;
-	padding-right: 30px;
-}
+	padding-right: 30px;}
 
 #menu a {
 	font: 16px Helvetica, sans-serif;
@@ -141,12 +140,18 @@ textarea {
 #ad_title1 {
 	width: 593px;
 	position: relative;
-	left: 225px;
+	left: 175px;
 	top: 150px;
 }
 
-
-
+#ad_title1 h1 {
+	color: #fefefe;
+	font: 40px Helvetica, sans-serif;
+	text-shadow: -1px -1px 1px #500303,
+	1px -1px 1px #500303,
+	-1px 1px 1px #500303,
+	1px 1px 1px #500303;
+}
 
 
 
