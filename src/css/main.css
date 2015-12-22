@@ -185,6 +185,11 @@ textarea {
 	line-height: 35px;
 	padding-bottom: 27px;
 }
+#features a {
+	position: relative;
+	top: 30px;
+	padding-bottom: 60px;
+}
 
 .center {
 	margin: auto;
