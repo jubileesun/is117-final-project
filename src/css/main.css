@@ -150,9 +150,20 @@ textarea {
 	text-shadow: -1px -1px 1px #500303,
 	1px -1px 1px #500303,
 	-1px 1px 1px #500303,
-	1px 1px 1px #500303;
+	1px 1px 1px #500303;	
 }
 
+#ad_title1 p {
+	color: #fefefe;
+	font: 20px Helvetica, sans-serif;
+	text-shadow: -1px -1px 1px #500303,
+	1px -1px 1px #500303,
+	-1px 1px 1px #500303,
+	1px 1px 1px #500303;
+	position: relative;
+	top: -20px;
+	line-height: 35px;
+}
 
 
 
