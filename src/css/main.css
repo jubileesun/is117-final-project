@@ -165,16 +165,19 @@ textarea {
 	line-height: 35px;
 }
 
-#cta_button {
+#cta1 {
 	position: relative;
-	top: 125px;
-	right: -400px;
+	top: 480px;
+	right: 175px;
 }
 
+#features {
+	text-align:center;
+}
 
-
-
-
+.center {
+	margin: auto;
+}
 
 
 
