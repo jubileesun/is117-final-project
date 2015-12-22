@@ -214,7 +214,15 @@ textarea {
 	padding-left: 300px;
 	padding-top: 50px;
 }
-	
+
+.small_title h4 {
+	font: 20px Helvetica, sans-serif;
+	color: #561216;
+	font-weight: bold;
+	position: relative;
+	top: 60px;
+	left: 150px;
+}
 
 
 
