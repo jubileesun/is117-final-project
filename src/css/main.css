@@ -102,12 +102,14 @@ textarea {
 }
 
 #logo {
+	position: relative;
+	top: 8px;
 	width: 100px;
 	height: 25px;
-	margin-bottom: 30px;
 }
+
 #menu ul {
-	margin-top: 43px;
+	margin-top: 50px;
 }
 
 #menu li {
@@ -123,6 +125,8 @@ textarea {
 }
 
 #first-content {
+	position: relative;
+	top: 18px;
 	background-image: url(../img/zlayout.jpg);
 	height: 610px;
 	width: 100%;
