@@ -138,7 +138,11 @@ textarea {
 	clear: both;
 }
 
-
+#leftcontent {
+	width: 593px;
+	text-align: center;
+	line-height: 500px;
+}
 
 
 
