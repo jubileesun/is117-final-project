@@ -169,7 +169,7 @@ textarea {
 	right: 175px;
 }
 
-#features h1 {
+#benefits h1 {
 	font: 36px Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -177,7 +177,7 @@ textarea {
 	color: #561216;	
 }
 
-#features p {
+#benefits p {
 	font: 23px Helvetica, sans-serif;
 	color: #af8386;
 	position: relative;
@@ -185,7 +185,7 @@ textarea {
 	line-height: 35px;
 	padding-bottom: 27px;
 }
-#features a {
+#benefits a {
 	position: relative;
 	top: 30px;
 	padding-bottom: 60px;
