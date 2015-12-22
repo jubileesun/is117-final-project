@@ -258,19 +258,19 @@ textarea {
 }
 
 #feature_right {
-	padding-right: 200px;
-	padding-top: 10px;
+	padding-right: 400px;
 }
 
 #feat3 h4 {
 	position: relative;
-	top: 40;
-	right: 130;
+	top: 38px;
+	right: -105px;
 }
 
 #feat3 p {
-	top: -55px;
-	right: 130px 
+	position: relative;
+	top: -60px;
+	left: 105px; 
 }
 
 
