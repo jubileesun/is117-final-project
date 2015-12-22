@@ -177,6 +177,15 @@ textarea {
 	color: #561216;	
 }
 
+#features p {
+	font: 23px Helvetica, sans-serif;
+	color: #af8386;
+	position: relative;
+	top: 37px;
+	line-height: 35px;
+	padding-bottom: 27px;
+}
+
 .center {
 	margin: auto;
 	text-align:center;
