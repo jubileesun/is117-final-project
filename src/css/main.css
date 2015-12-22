@@ -124,7 +124,7 @@ textarea {
 	color: #561216;
 }
 
-#first-content {
+#first_content {
 	position: relative;
 	top: 18px;
 	background-image: url(../img/zlayout.jpg);
@@ -138,7 +138,7 @@ textarea {
 	clear: both;
 }
 
-#leftcontent {
+#left_content {
 	width: 593px;
 	text-align: center;
 	line-height: 500px;
