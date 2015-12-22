@@ -145,24 +145,22 @@ textarea {
 }
 
 #ad_title1 h1 {
-	color: #fefefe;
 	font: 40px Helvetica, sans-serif;
-	text-shadow: -1px -1px 1px #500303,
-	1px -1px 1px #500303,
-	-1px 1px 1px #500303,
-	1px 1px 1px #500303;	
 }
 
 #ad_title1 p {
-	color: #fefefe;
 	font: 20px Helvetica, sans-serif;
+	position: relative;
+	top: -20px;
+	line-height: 35px;
+}
+
+.image_text {
+	color: #fefefe;
 	text-shadow: -1px -1px 1px #500303,
 	1px -1px 1px #500303,
 	-1px 1px 1px #500303,
 	1px 1px 1px #500303;
-	position: relative;
-	top: -20px;
-	line-height: 35px;
 }
 
 #cta1 {
@@ -171,12 +169,16 @@ textarea {
 	right: 175px;
 }
 
-#features {
-	text-align:center;
+#features h1{
+	font: 36px Helvetica, sans-serif;
+	position: relative:
+	top 30px;
+
 }
 
 .center {
 	margin: auto;
+	text-align:center;
 }
 
 
