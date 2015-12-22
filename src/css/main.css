@@ -169,8 +169,8 @@ textarea {
 	right: 175px;
 }
 
-#benefits h1 {
-	font: 36px Helvetica, sans-serif;
+.title {
+	font: 20px Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
 	top: 30px;
@@ -195,6 +195,17 @@ textarea {
 	margin: auto;
 	text-align:center;
 }
+
+#features_title {
+	
+	
+
+
+
+
+
+
+
 
 
 
