@@ -251,11 +251,34 @@ textarea {
 	right: 51px;
 }
 
-#feat2 img{
+#feat2 img {
 	position: relative;
 	top: 155px;
 	right: 160px;
 }
+
+#feature_right {
+	padding-right: 200px;
+	padding-top: 10px;
+}
+
+#feat3 h4 {
+	position: relative;
+	top: 40;
+	right: 130;
+}
+
+#feat3 p {
+	top: -55px;
+	right: 130px 
+}
+
+
+
+
+
+
+
 
 
 
